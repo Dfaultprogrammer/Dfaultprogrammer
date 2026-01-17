@@ -36,6 +36,24 @@
 - **_Explicit vs non-explicit song comparison_**  
 - **_Artist-level popularity analysis_**  
 - **_Popularity band analysis and blockbuster song identification_**
+- 
+---
+
+## 📸 ***Key Visualizations***
+
+- ***Below are some important visualizations from the exploratory data analysis that highlight key trends and relationships in the Spotify dataset.***
+
+- ***🎵 Year-wise Song Release Trend***  
+  ![Year-wise Song Release Trend](images/yearwise_trend.png)
+
+- ***📈 Popularity vs Stream Count (Log Scale)***  
+  ![Popularity vs Stream Count](images/popularity_vs_streams.png)
+
+- ***🔥 Correlation Matrix of Audio Features***  
+  ![Correlation Heatmap](images/correlation_heatmap.png)
+
+- ***⭐ Distribution of Songs by Popularity Band***  
+  ![Popularity Distribution](images/popularity_distribution.png)
 
 ---
 
