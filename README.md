@@ -2,11 +2,12 @@
 
 ### 🚀 ***Aspiring Data Analyst | Power BI • Python • SQL***
 
-I’m passionate about turning ***raw data into meaningful insights*** and building ***interactive dashboards*** that support data-driven decision-making.
+I’m passionate about turning ***raw data into meaningful insights*** and building ***interactive dashboards*** that support **data-driven decision-making** 📊✨.
 
 Currently focused on:
 - 📊 ***Business Intelligence & Data Analytics***
 - 🐍 ***Python for Exploratory Data Analysis (EDA)***
+- 🗄️ ***SQL for data cleaning, modeling & analytics***
 - 📈 ***Power BI dashboards & data storytelling***
 
 ---
@@ -14,32 +15,33 @@ Currently focused on:
 ## 🧠 ***What I Do***
 - 📊 Build ***interactive Power BI dashboards*** for sales & business analysis  
 - 🐍 Perform ***Python-based EDA*** using Pandas, NumPy, Matplotlib & Seaborn  
-- 🧮 Analyze data to uncover ***trends, patterns, and insights***  
+- 🧮 Write ***SQL queries*** for data cleaning, transformation & business analysis  
 - 💡 Translate data into ***actionable business insights***
 
 ---
 
 ## 🛠️ ***Tech Stack***
-- ***Languages:*** Python, SQL  
-- ***BI Tools:*** Power BI (DAX, Power Query)  
-- ***Libraries:*** Pandas, NumPy, Matplotlib, Seaborn  
-- ***Skills:*** Data Analysis, EDA, Data Visualization, Business Intelligence
+- ***Languages:*** **Python**, **SQL**  
+- ***BI Tools:*** **Power BI** (DAX, Power Query)  
+- ***Libraries:*** **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**  
+- ***Databases:*** **MySQL**  
+- ***Skills:*** **Data Analysis**, **EDA**, **Data Visualization**, **Business Intelligence**, **Data Modeling**
 
 ---
 
 ## 📌 ***Featured Projects***
-- 📊 ***Power BI Sales Dashboard*** — Retail sales analysis with interactive visuals  
-- 🎧 ***Spotify EDA (2015–2025)*** — Python-based analysis of music trends & popularity  
+
+- 📊 ***Power BI Sales Dashboard***  
+  *Retail sales analysis with interactive KPIs, slicers & drill-through insights*
+
+- 🎧 ***Spotify EDA (2015–2025)***  
+  *Python-based exploratory analysis of music trends, popularity & audio features*
+
+- 🗄️ ***Ecommerce SQL Analytics Project***  
+  *End-to-end SQL project covering raw data ingestion, cleaning, star-schema modeling, and business-focused analytics using MySQL*
 
 *(More projects coming soon 🚀)*
 
 ---
 
-## 🔗 ***Connect With Me***
-- 🐙 ***GitHub:*** https://github.com/Dfaultprogrammer  
-- 💼 ***LinkedIn:*** https://www.linkedin.com/in/syedafzal30  
-- 📧 ***Email:*** safzal2004@gmail.com  
-
----
-
-⭐ *Always open to learning, collaboration, and data-driven discussions.*
+⭐ *Always learning, building, and improving — one dataset at a time.*
